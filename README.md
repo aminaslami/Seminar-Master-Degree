@@ -1,1 +1,1 @@
-# Seminer-Master-Degree
+# Seminar-Master-Degree

@@ -7,7 +7,9 @@
 
 Jurys in Seminer: 
 
-Assist. Prof. Dr: F
+The numbers is three.
+
+Assist. Prof. Dr: Ferhat UÇAR
 
 Assist. Prof. Dr: Yaman AKBULUT
 

@@ -9,10 +9,15 @@ Jurys in Seminer:
 
 The numbers is three.
 
-Assist. Prof. Dr: Ferhat UÇAR
+**Assist. Prof. Dr: Ferhat UÇAR**
 
-Assist. Prof. Dr: Yaman AKBULUT
+**Assist. Prof. Dr: Yaman AKBULUT**
+
 -----------------------------------------------------------------------------------------------------------------------
+University: Firat University
+Faculty:    Faculty of Technology 
+Department: Software Engineering
+
 
 
 

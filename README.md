@@ -7,7 +7,8 @@
 
 Jurys in Seminer: 
 
-Assist. Prof. Dr: 
+Assist. Prof. Dr: F
+
 Assist. Prof. Dr: Yaman AKBULUT
 
 

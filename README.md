@@ -15,7 +15,9 @@ The numbers is three.
 
 -----------------------------------------------------------------------------------------------------------------------
 University: Firat University
+
 Faculty:    Faculty of Technology 
+
 Department: Software Engineering
 
 
